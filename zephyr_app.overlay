@@ -1,0 +1,4 @@
+/ {
+    /* We don't define GPIOs here - they'll be accessed directly in C code */
+    /* This is intentionally minimal */
+};
