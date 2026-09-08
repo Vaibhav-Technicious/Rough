@@ -16,7 +16,7 @@
 #include <zephyr/sys/reboot.h>
 #include <zephyr/arch/cpu.h>
 #include <soc.h>
-//Git testing
+
 #include <stdlib.h>
 #include <string.h>
 #include <ctype.h>
